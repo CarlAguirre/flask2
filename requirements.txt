@@ -5,6 +5,8 @@ itsdangerous==1.1.0
 Jinja2==2.11.3
 MarkupSafe==1.1.1
 Werkzeug==1.0.1
-
 flask-expects-json==1.7.0
 jsonschema==4.17.3
+attrs==22.2.0
+colorama==0.4.6
+pyrsistent==0.19.3
